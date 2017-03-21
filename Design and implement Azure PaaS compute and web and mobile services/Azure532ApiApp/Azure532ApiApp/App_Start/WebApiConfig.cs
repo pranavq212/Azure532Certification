@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace AzureWebApiApp
+namespace Azure532ApiApp
 {
     public static class WebApiConfig
     {

@@ -6,11 +6,15 @@ using System.Net.Http;
 using System.Web.Http;
 using Swashbuckle.Swagger.Annotations;
 
-namespace AzureWebApiApp.Controllers
+namespace Azure532ApiApp.Controllers
 {
     public class ValuesController : ApiController
     {
         // GET api/values
+        /// <summary>
+        /// Get Operation, returns all values
+        /// </summary>
+        /// <returns>returns all values</returns>
         [SwaggerOperation("GetAll")]
         public IEnumerable<string> Get()
         {

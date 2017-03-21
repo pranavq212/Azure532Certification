@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AzureWebApiApp")]
+[assembly: AssemblyTitle("Azure532ApiApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SAPIENT")]
-[assembly: AssemblyProduct("AzureWebApiApp")]
+[assembly: AssemblyProduct("Azure532ApiApp")]
 [assembly: AssemblyCopyright("Copyright © SAPIENT 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("56ad2cdd-1ce6-476f-af6c-cacd2f8b9697")]
+[assembly: Guid("0c99db1f-66f7-4f78-9802-06af4d807e84")]
 
 // Version information for an assembly consists of the following four values:
 //
