@@ -241,7 +241,6 @@ namespace Azure532ApiApp
                         //
                         //c.EnableApiKeySupport("apiKey", "header");
                     });
-
         }
     }
 }
